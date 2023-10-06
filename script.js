@@ -165,7 +165,7 @@ function canvas() {
       trigger: `#page>canvas`,
       //   set start end according to preference
       start: `top top`,
-      end: `250% top`,
+      end: `600% top`,
       scroller: `#main`,
     },
     onUpdate: render,
