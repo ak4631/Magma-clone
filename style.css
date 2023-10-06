@@ -18,7 +18,7 @@ body{
 #page1{
     height:100vh;
     width: 100vw;
-    background-color: red;
+    /* background-color: red; */
     position: relative;
 }
 #page1 video{
@@ -138,7 +138,7 @@ body{
     height: 100vh;
     width: 100vw;
     position: relative;
-    background-color: red;
+    /* background-color: red; */
 }
 #page3>canvas{
     max-height: 100vh;
